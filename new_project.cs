@@ -1,3 +1,4 @@
+// HEAD
 using System;
 
 namespace MyNamespace
@@ -11,3 +12,6 @@ namespace MyNamespace
         }
     }
 }
+
+lflflf в main
+// 5a84d4b65367ae806f11334c245e50e9e14f82e7
